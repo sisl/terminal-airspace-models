@@ -1,0 +1,7 @@
+sklearn
+numpy
+IPython
+bandmat
+matplotlib
+pandas
+jupyter
